@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TAG5</string>
+    <string name="title_home">Startseite</string>
+    <string name="title_dashboard">Seite</string>
+    <string name="title_notifications">Benachrichtigung</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo</string>
+    <string name="profile">Profil</string>
+    <string name="textInputLayoutName" />
+    <string name="nama">name</string>
+
+
+</resources>

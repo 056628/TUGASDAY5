@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DAY5</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Halaman</string>
+    <string name="title_notifications">Notifikasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo</string>
+    <string name="profile">Profil</string>
+    <string name="textInputLayoutName" />
+    <string name="nama">nama</string>
+
+
+</resources>
